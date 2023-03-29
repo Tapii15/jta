@@ -13,7 +13,7 @@ background-image:url("fondo.jpg");
 h3
 {
 text-align:center;
-color:black;
+color: red;
 font-family:'Fredoka One', cursive;
 background-color:orange;
 }
